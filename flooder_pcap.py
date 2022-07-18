@@ -1,4 +1,4 @@
-#! /usr/bin/python3.10
+#! /usr/bin/python3
 
 # This is a beta version so proceed carefully, please.
 
