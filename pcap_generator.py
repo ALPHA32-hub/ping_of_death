@@ -1,5 +1,4 @@
-#! /usr/bin/env python3
-
+#! /usr/bin/python3.10
 # That is a beta version so proceed carefully, please.
 
 from scapy.all import *
